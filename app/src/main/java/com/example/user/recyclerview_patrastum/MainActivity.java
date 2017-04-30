@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         names=new ArrayList<>();
         rateing=new ArrayList<>();
-        rateing.add(2.5f);
+        rateing.add(0.5f);
         rateing.add(5f);
         rateing.add(5f);
         names.add("Suren");
